@@ -1,0 +1,12 @@
+#adminmenu .toplevel_page_zapify div.wp-menu-image:before {
+    content: '';
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIGNsYXNzPSJzaXplLTYiPgogIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE0LjYxNSAxLjU5NWEuNzUuNzUgMCAwIDEgLjM1OS44NTJMMTIuOTgyIDkuNzVoNy4yNjhhLjc1Ljc1IDAgMCAxIC41NDggMS4yNjJsLTEwLjUgMTEuMjVhLjc1Ljc1IDAgMCAxLTEuMjcyLS43MWwxLjk5Mi03LjMwMkgzLjc1YS43NS43NSAwIDAgMS0uNTQ4LTEuMjYybDEwLjUtMTEuMjVhLjc1Ljc1IDAgMCAxIC45MTMtLjE0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIgLz4KPC9zdmc+');
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    float: left;
+    margin: 7px;
+}
